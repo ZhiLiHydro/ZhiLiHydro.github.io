@@ -11,30 +11,31 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Water Resources Engineering and Science, University of Illinois Urbana Champaign, 2020 (expected)
+* M.S. in Jekyll, Michigan State University, 2014
+* B.S. in Geology, Nanjing University, 2012
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2016 - Present: Research Assistant
+  * University of Illinois Urbana Champaign
+  * Duties included: 
+  * Supervisor: Prof. Marcelo H. García
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2014 - Spring 2016: Research Assistant
+  * University of Pittsburgh
+  * Duties included: 
+  * Supervisor: Prof. Jorge D. Abad
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Fluid dynamics and sediment transport modeling: TELEMAC-2D & 3D, SISYPHE, Delft3D, OpenFOAM, HEC-RAS
+* Programming languages (scientific computing oriented): Python 3, Fortran 90, Matlab/Octave
+* Scientific visualization: Tecplot, BlueKenue, ParaView, VisIt
+* GIS: ArcGIS
+* Rich experience in deploying projects on: 
+  * AWS EC2
+  * Several NSF/DoE funded supercomputers
 
 Publications
 ======
@@ -56,4 +57,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* 2019 - 2020: Treasuer of International Water Resources Association (IWRA) U of I student chapter
