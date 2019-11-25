@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Water Resources Engineering and Science, University of Illinois Urbana Champaign, 2020 (expected)
-* M.S. in Jekyll, Michigan State University, 2014
+* M.S. in Environmental Engineering, Michigan State University, 2014
 * B.S. in Geology, Nanjing University, 2012
 
 Work experience
