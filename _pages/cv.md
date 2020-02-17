@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Water Resources Engineering and Science, University of Illinois Urbana Champaign, 2020 (expected)
+* Ph.D in Water Resources Engineering and Science, University of Illinois Urbana Champaign, 2021 (expected)
 * M.S. in Environmental Engineering, Michigan State University, 2014
 * B.S. in Geology, Nanjing University, 2012
 
-Work experience
+Research experience
 ======
 * Fall 2016 - Present: Research Assistant
   * University of Illinois Urbana Champaign
@@ -26,6 +26,16 @@ Work experience
   * University of Pittsburgh
   * Duties included: 
   * Supervisor: Prof. Jorge D. Abad
+  
+* Fall 2012 - Spring 2014: Research Assistant
+  * Michigan State University
+  * Duties included: 
+  * Supervisor: Prof. Shu-Guang Li
+  
+* Fall 2010 - Spring 2012: Undergraduate Research Assistant
+  * Nanjing University
+  * Duties included: 
+  * Supervisor: Prof. Liang Zhao, Prof. Lianwen Liu
   
 Skills
 ======
