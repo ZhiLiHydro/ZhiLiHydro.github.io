@@ -23,6 +23,8 @@ Prior to becoming an [Illini](https://fightingillini.com/), in 2014, I completed
 
 
 
-### Today's Chicago River and Lake Michigan water levels at Downtown Chicago
+#### Chicago River and Lake Michigan water levels at Downtown Chicago
 
-![g](https://github.com/ZhiLiHydro/ZhiLiHydro.github.io/blob/master/images/gauge.png)
+<img src="https://github.com/ZhiLiHydro/ZhiLiHydro.github.io/blob/master/images/gauge.png">
+
+
