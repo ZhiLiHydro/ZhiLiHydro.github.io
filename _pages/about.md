@@ -17,3 +17,12 @@ I am a PhD candidate at Ven Te Chow Hydrosystems Lab, Dept. of CEE, University o
 
 
 Prior to becoming an [Illini](https://fightingillini.com/), in 2014, I completed my M.S. degree in Environmental Engineering at Michigan State University. I was introduced to the world of geophysical flow modeling in Dr. Li's groundwater modeling lab, where I was primarily working on a dam removal project in Michigan. In 2012, I completed my B.S. degree in Geology at Nanjing University, where I completed my B.S. thesis on CO2 sequestration using a kind of mineral called serpentine.
+
+
+
+
+
+
+### Today's Chicago River and Lake Michigan water levels at Downtown Chicago
+
+![g](https://github.com/ZhiLiHydro/ZhiLiHydro.github.io/blob/master/images/gauge.png)
