@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Short CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -15,34 +15,27 @@ Education
 * M.S. in Environmental Engineering, Michigan State University, 2014
 * B.S. in Geology, Nanjing University, 2012
 
-Research experience
+Research experiences
 ======
-* Fall 2016 - Present: Research Assistant
-  * University of Illinois Urbana Champaign
-  * Duties included: 
-  * Supervisor: Prof. Marcelo H. García
+* Fall 2016 - Present: Ven Te Chow Hydrosystems Laboratory at University of Illinois Urbana Champaign
+  * Graduate Research Assistant
 
-* Fall 2014 - Spring 2016: Research Assistant
-  * University of Pittsburgh
-  * Duties included: 
-  * Supervisor: Prof. Jorge D. Abad
+* Fall 2014 - Spring 2016: Environmental Fluid Mechanics Laboratory at University of Pittsburgh
+  * Graduate Research & Teaching Assistant
   
-* Fall 2012 - Spring 2014: Research Assistant
-  * Michigan State University
-  * Duties included: 
-  * Supervisor: Prof. Shu-Guang Li
+* Fall 2012 - Spring 2014: Groundwater Modeling Laboratory at  Michigan State University
+  * Graduate Research Assistant
   
-* Fall 2010 - Spring 2012: Undergraduate Research Assistant
-  * Nanjing University
-  * Duties included: 
-  * Supervisor: Prof. Liang Zhao, Prof. Lianwen Liu
+* Fall 2010 - Spring 2012: MOE Key Laboratory of Surficial Geochemistry at Nanjing University
+  * Undergraduate Research Assistant
   
 Skills
 ======
 * Fluid dynamics and sediment transport modeling: TELEMAC-2D & 3D, SISYPHE, Delft3D, OpenFOAM, HEC-RAS
-* Programming languages (scientific computing oriented): Python 3, Fortran 90, Matlab/Octave
-* Scientific visualization: Tecplot, BlueKenue, ParaView, VisIt
-* GIS: ArcGIS
+* Programming languages (scientific computing oriented): Python 3, Fortran 90, Octave/Matlab
+* Scientific visualization: Tecplot, BlueKenue, ParaView, VisIt, Python-Matplotlib, R
+* GIS: OpenGIS/ArcGIS
+* Engineering design: AutoCAD, Civil 3D
 * Rich experience in deploying projects on: 
   * AWS EC2
   * Several NSF/DoE funded supercomputers
@@ -65,6 +58,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* 2019 - 2020: Treasuer of International Water Resources Association (IWRA) U of I student chapter
+
