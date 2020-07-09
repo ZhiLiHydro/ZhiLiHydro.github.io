@@ -9,11 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
+Full CV is [here]
+
+Research interests
+======
+Environmental Flow Mechanics, Sediment Transport, Fluvial Geomorphology, River Dynamics, Computational Fluid Dynamics
+
 Education
 ======
 * Ph.D in Water Resources Engineering and Science, University of Illinois Urbana Champaign, 2021 (expected)
 * M.S. in Environmental Engineering, Michigan State University, 2014
-* B.S. in Geology, Nanjing University, 2012
+* B.S. in Geosciences with Geology specialization, Nanjing University, 2012
 
 Research experiences
 ======
@@ -31,7 +37,7 @@ Research experiences
   
 Skills
 ======
-* Fluid dynamics and sediment transport modeling: TELEMAC-2D & 3D, SISYPHE, Delft3D, OpenFOAM, HEC-RAS
+* Fluid dynamics and sediment transport modeling: TELEMAC-2D/3D, SISYPHE, Delft3D, OpenFOAM, HEC-RAS
 * Programming languages (scientific computing oriented): Python 3, Fortran 90, Octave/Matlab
 * Scientific visualization: Tecplot, BlueKenue, ParaView, VisIt, Python-Matplotlib, R
 * GIS: OpenGIS/ArcGIS
@@ -40,22 +46,6 @@ Skills
   * AWS EC2
   * Several NSF/DoE funded supercomputers
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
   
 
