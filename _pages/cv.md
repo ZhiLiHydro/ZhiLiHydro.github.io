@@ -42,9 +42,7 @@ Skills
 * Scientific visualization: Tecplot, BlueKenue, ParaView, VisIt, Python-Matplotlib, R
 * GIS: OpenGIS/ArcGIS
 * Engineering design: AutoCAD, Civil 3D
-* Rich experience in deploying projects on: 
-  * AWS EC2
-  * Several NSF/DoE funded supercomputers
+* Rich experience in deploying HPC projects on Amazon AWS EC2, campus clusters and supercomputers
 
 
   
