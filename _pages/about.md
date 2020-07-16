@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Zhi Li, a PhD candidate at the Ven Te Chow Hydrosystems Laboratory, Department of Civil and Environmental Engineering, University of Illinois Urbana-Champaign, working with Prof. [Marcelo H. García](https://cee.illinois.edu/directory/profile/mhgarcia). My research interests include **Environmental Flow Mechanics**, **Sediment Transport**, **Fluvial Geomorphology** and ***Computational Fluid Dynamics**. Here's my [short CV](https://zhilihydro.github.io/cv/) and [full CV].
+I am Zhi Li, a PhD candidate at the Ven Te Chow Hydrosystems Laboratory, Department of Civil and Environmental Engineering, University of Illinois Urbana-Champaign, working with Prof. [Marcelo H. García](https://cee.illinois.edu/directory/profile/mhgarcia). My research interests include **Environmental Flow Mechanics**, **Sediment Transport**, **Fluvial Geomorphology** and **Computational Fluid Dynamics**. Here's my [short CV](https://zhilihydro.github.io/cv/) and [full CV].
 
 > #### News
 >  - [**Summer'20**] Gave a talk "pyRiverBed:  A Python framework to generate synthetic riverbed topography of constant-width meandering rivers" at [CSDMS Summer Science Series](https://csdms.colorado.edu/wiki/MeetingOfInterest:Meeting-399). Recorded video can be found [here](https://csdms.colorado.edu/wiki/Webinars).
