@@ -13,11 +13,11 @@ Full CV is [here]
 
 Research interests
 ======
-Environmental Flow Mechanics, Sediment Transport, Fluvial Geomorphology, River Dynamics, Computational Fluid Dynamics
+Environmental Flow Mechanics, Sediment Transport, Fluvial Geomorphology, Computational Fluid Dynamics
 
 Education
 ======
-* Ph.D in Water Resources Engineering and Science, University of Illinois Urbana Champaign, 2021 (expected)
+* Ph.D in Water Resources Engineering and Science, University of Illinois at Urbana-Champaign, 2021 (expected)
 * M.S. in Environmental Engineering, Michigan State University, 2014
 * B.S. in Geosciences with Geology specialization, Nanjing University, 2012
 
@@ -42,7 +42,7 @@ Skills
 * Scientific visualization: Tecplot, BlueKenue, ParaView, VisIt, Python-Matplotlib, R
 * GIS: OpenGIS/ArcGIS
 * Engineering design: AutoCAD, Civil 3D
-* Rich experience in deploying HPC projects on Amazon AWS EC2, campus clusters and supercomputers
+* Rich experience in deploying HPC projects on AWS EC2, campus clusters and supercomputers
 
 
   
