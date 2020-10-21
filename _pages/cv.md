@@ -23,13 +23,13 @@ Education
 
 Research experiences
 ======
-* Fall 2016 - Present: Ven Te Chow Hydrosystems Laboratory at University of Illinois Urbana Champaign
+* Fall 2016 - Present: Ven Te Chow Hydrosystems Laboratory at University of Illinois Urbana-Champaign
   * Graduate Research Assistant
 
 * Fall 2014 - Spring 2016: Environmental Fluid Mechanics Laboratory at University of Pittsburgh
   * Graduate Research & Teaching Assistant
   
-* Fall 2012 - Spring 2014: Groundwater Modeling Laboratory at  Michigan State University
+* Fall 2012 - Spring 2014: Groundwater Modeling Laboratory at Michigan State University
   * Graduate Research Assistant
   
 * Fall 2010 - Spring 2012: MOE Key Laboratory of Surficial Geochemistry at Nanjing University
@@ -37,12 +37,13 @@ Research experiences
   
 Skills
 ======
-* Fluid dynamics and sediment transport modeling: TELEMAC-2D/3D, SISYPHE, Delft3D, OpenFOAM, HEC-RAS
-* Programming languages (scientific computing oriented): Python 3, Fortran 90, Octave/Matlab
+* Geophysical flow and sediment transport modeling: TELEMAC & SISYPHE, Delft3D, HEC-RAS
+* CFD & meshing: FLOW-3D, OpenFOAM, Fluent, ANSYS Meshing, Gmsh
+* Programming languages (scientific computing oriented): Python, Fortran, C, Octave/Matlab
 * Scientific visualization: Tecplot, BlueKenue, ParaView, VisIt, Python-Matplotlib, R
-* GIS: OpenGIS/ArcGIS
-* Engineering design: AutoCAD, Civil 3D
-* Rich experience in deploying HPC projects on AWS EC2, campus clusters and supercomputers
+* GIS & CAD: ArcGIS, AutoCAD, Civil 3D
+* HPC: Rich experience in deploying HPC projects on AWS EC2, campus clusters and supercomputers
+* Cloud computing: AWS Certified Cloud Practitioner
 
 
   
