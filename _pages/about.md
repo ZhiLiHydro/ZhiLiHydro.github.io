@@ -13,6 +13,8 @@ I am Zhi Li, a PhD candidate at the Ven Te Chow Hydrosystems Laboratory, Departm
 > #### News
 >  - [**Fall'20**] A 1st-author abstract titled "[Modeling the hydrodynamics of Chicago Area Waterway System (CAWS) and nearshore areas in Lake Michigan: Investigation of different flow behaviors under low and high Lake Michigan level conditions](https://agu.confex.com/agu/fm20/meetingapp.cgi/Paper/758967)" has been accepted by AGU Fall Meeting 2020. Paper Number: GC084-0010.
 >
+>  - [**Fall'20**] A 4th-author abstract titled "[Triangle Shaped Bends Associated with Peat in the Zoige Basin, Northeast Qinghai – Tibet Plateau, China](https://agu.confex.com/agu/fm20/meetingapp.cgi/Paper/769357" has been accepted by AGU Fall Meeting 2020. Paper Number: EP052-0029.
+>
 >  - [**Summer'20**] Gave a talk "pyRiverBed:  A Python framework to generate synthetic riverbed topography of constant-width meandering rivers" at [CSDMS Summer Science Series](https://csdms.colorado.edu/wiki/MeetingOfInterest:Meeting-399). Recorded video can be found [here](https://csdms.colorado.edu/wiki/Webinars).
 >
 >  - [**Spring'20**] One 1st-author abstract on chute cutoff modeling and one 3rd-author abstract on meander dynamics in peat were accepted for presentation at [River Flow 2020](http://riverflow2020.org/). Another abstract studying human impact on long term meander dynamics was accpeted for presentation at the [International Conference on the Status and Future of the World's Large Rivers](http://worldslargerivers.boku.ac.at/wlr/).
