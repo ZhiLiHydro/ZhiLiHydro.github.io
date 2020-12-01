@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Zhi Li, a PhD candidate at the Ven Te Chow Hydrosystems Laboratory, Department of Civil and Environmental Engineering, University of Illinois Urbana-Champaign, working with Prof. [Marcelo H. García](https://cee.illinois.edu/directory/profile/mhgarcia). My research interests include **Environmental Flow Mechanics**, **Sediment Transport**, **Fluvial Geomorphology** and **Computational Fluid Dynamics**. Here's my [short CV](https://zhilihydro.github.io/cv/) and [full CV].
+I am Zhi Li, a PhD candidate at the Ven Te Chow Hydrosystems Laboratory, Department of Civil and Environmental Engineering, University of Illinois Urbana-Champaign, working with Prof. [Marcelo H. García](https://cee.illinois.edu/directory/profile/mhgarcia). My research interests include **Environmental Flow Mechanics**, **Sediment Transport**, **Fluvial Geomorphology** and **Computational Fluid Dynamics**. Here's my [short CV](https://zhilihydro.github.io/cv/) and [full CV](https://zhilihydro.github.io/files/CV_web_Zhi_Li.pdf).
 
 > #### News
 >  - [**Fall'20**] A 1st-author abstract titled "[Modeling the hydrodynamics of Chicago Area Waterway System (CAWS) and nearshore areas in Lake Michigan: Investigation of different flow behaviors under low and high Lake Michigan level conditions](https://agu.confex.com/agu/fm20/meetingapp.cgi/Paper/758967)" has been accepted by AGU Fall Meeting 2020. Paper Number: GC084-0010.
