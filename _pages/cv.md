@@ -23,10 +23,10 @@ Education
 
 Research experiences
 ======
-* Fall 2016 - Present: Ven Te Chow Hydrosystems Laboratory at University of Illinois Urbana-Champaign
+* Fall 2016 - Present: Ven Te Chow Hydrosystems Laboratory at the University of Illinois Urbana-Champaign
   * Graduate Research Assistant
 
-* Fall 2014 - Spring 2016: Environmental Fluid Mechanics Laboratory at University of Pittsburgh
+* Fall 2014 - Spring 2016: Environmental Fluid Mechanics Laboratory at the University of Pittsburgh
   * Graduate Research & Teaching Assistant
   
 * Fall 2012 - Spring 2014: Groundwater Modeling Laboratory at Michigan State University
