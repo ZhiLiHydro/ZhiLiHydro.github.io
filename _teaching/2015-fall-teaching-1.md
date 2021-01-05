@@ -8,7 +8,7 @@ date: 2015-09-01
 location: "Pittsburgh, Pennsylvania"
 ---
 
-One of the duties was leading the experiment classes, e.g. to demonstrate the relationship between Froude number and river bedforms using laboratory flume experiments:
+One of the duties was leading the experiment classes, e.g. to demonstrate the relationship between Froude number and river bedforms using laboratory flume experiments.
 
 
 ![](/images/exprmt_pitt.jpeg)
