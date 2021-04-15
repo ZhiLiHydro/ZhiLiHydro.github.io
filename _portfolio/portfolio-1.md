@@ -6,4 +6,4 @@ collection: project
 
 Code: [https://github.com/ZhiLiHydro/pyRiverBed](https://github.com/ZhiLiHydro/pyRiverBed) 
 
-Publication: [https://zhilihydro.github.io/publication/2020-10-01-paper1](https://zhilihydro.github.io/publication/2020-10-01-paper1)
+Publication: [https://zhilihydro.github.io/publication/2021-03-15-paper1](https://zhilihydro.github.io/publication/2021-03-15-paper1)
