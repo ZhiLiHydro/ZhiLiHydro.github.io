@@ -8,6 +8,6 @@ date: 2020-09-01
 location: "Urbana, Illinois"
 ---
 
-Proposed two projects to undergraduate students: 1) Computational Fluid Dynamics 101 and 2) Fluvial Geomorphology 101. The mentoring is composed of lectures, weekly-meetings, a mini-project and a final-project. One of the students won the best poster presentation award. 
+Proposed two projects to undergraduate students: 1) Computational Fluid Dynamics 101, and 2) Fluvial Geomorphology 101. The mentoring is composed of lectures, weekly-meetings, a mini-project and a final-project. One of the students won the best poster presentation award. 
 
-PURE program website: https://pure.engr.illinois.edu/
+PURE website: [https://pure.engr.illinois.edu/](https://pure.engr.illinois.edu/)
