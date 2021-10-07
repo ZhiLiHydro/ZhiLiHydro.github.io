@@ -11,7 +11,9 @@ redirect_from:
 I am Zhi Li, a PhD candidate at the Ven Te Chow Hydrosystems Laboratory, Department of Civil and Environmental Engineering, University of Illinois Urbana-Champaign, working with Prof. [Marcelo H. García](https://cee.illinois.edu/directory/profile/mhgarcia). My PhD thesis focuses on developing numerical models on river meandering and cutoff problems. My broader research interests include **Environmental Flow Mechanics**, **Sediment Transport**, **Fluvial Geomorphology** and **Computational Fluid Dynamics**. Here's my [short CV](https://zhilihydro.github.io/cv/).
 
 > #### News
->  - [**Fall'21**] Paper accepted! Our paper "Impact of Lake Michigan Water Level Rise on Complex Bidirectional Flow in the Chicago Area Waterway System (CAWS)" has been accpeted for publication in the Journal of Great Lakes Research. DOI available soon.
+>  - [**Fall'21**] Paper accepted! Our paper titled "Impact of Lake Michigan Water Level Rise on Complex Bidirectional Flow in the Chicago Area Waterway System (CAWS)" has been accpeted for publication in the Journal of Great Lakes Research. DOI available soon.
+>
+>  - [**Fall'21**] A co-authored abstract titled "[An integrated river planform and sandbar detection tool based on Google Earth and its application in the Yazoo-Mississippi Delta with high-resolution satellite images](https://agu.confex.com/agu/fm21/meetingapp.cgi/Paper/925956)" has been accepted by AGU Fall Meeting 2021. Paper Number: H15M-1191.
 >
 >  - [**Spring'21**] Obtained the **Graduate College Mentoring Certificate**, "In recognition of completion of the Illinois Graduate Mentoring Program".
 >
