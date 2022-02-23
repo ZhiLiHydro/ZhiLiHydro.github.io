@@ -17,7 +17,7 @@ Environmental Flow Mechanics, Sediment Transport, Fluvial Geomorphology, Computa
 
 Education
 ======
-* Ph.D in Water Resources Engineering and Science, University of Illinois at Urbana-Champaign, 2021 (expected)
+* Ph.D in Water Resources Engineering and Science, University of Illinois Urbana-Champaign, 2022
 * M.S. in Environmental Engineering, Michigan State University, 2014
 * B.S. in Geosciences with Geology specialization, Nanjing University, 2012
 
