@@ -21,18 +21,18 @@ Education
 * M.S. in Environmental Engineering, Michigan State University, 2014
 * B.S. in Geosciences with Geology specialization, Nanjing University, 2012
 
-Research experiences
+Research experience
 ======
-* Fall 2016 - Present: Ven Te Chow Hydrosystems Laboratory at the University of Illinois Urbana-Champaign
+* Fall 2016 - Spring 2022: Ven Te Chow Hydrosystems Laboratory, University of Illinois Urbana-Champaign
   * Graduate Research Assistant
 
-* Fall 2014 - Spring 2016: Environmental Fluid Mechanics Laboratory at the University of Pittsburgh
+* Fall 2014 - Spring 2016: Environmental Fluid Mechanics Laboratory, University of Pittsburgh
   * Graduate Research & Teaching Assistant
   
-* Fall 2012 - Spring 2014: Groundwater Modeling Laboratory at Michigan State University
+* Fall 2012 - Spring 2014: Groundwater Modeling Laboratory, Michigan State University
   * Graduate Research Assistant
   
-* Fall 2010 - Spring 2012: MOE Key Laboratory of Surficial Geochemistry at Nanjing University
+* Fall 2010 - Spring 2012: MOE Key Laboratory of Surficial Geochemistry, Nanjing University
   * Undergraduate Research Assistant
   
 Skills
