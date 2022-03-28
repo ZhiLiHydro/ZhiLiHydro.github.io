@@ -13,26 +13,29 @@ Full CV is [here](https://zhilihydro.github.io/files/CV_web_Zhi_Li.pdf)
 
 Research interests
 ======
-Environmental Flow Mechanics, Sediment Transport, Fluvial Geomorphology, Computational Fluid Dynamics
+Numerical modeling of geophysical flow and solute/sediment transport; River Dynamics
 
 Education
 ======
-* Ph.D. in Water Resources Engineering and Science, University of Illinois Urbana-Champaign, 2022
+* Ph.D. in Water Resources Engineering & Science, University of Illinois Urbana-Champaign, 2022
 * M.S. in Environmental Engineering, Michigan State University, 2014
 * B.S. in Geosciences with Geology specialization, Nanjing University, 2012
 
 Research experience
 ======
-* Fall 2016 - Spring 2022: Ven Te Chow Hydrosystems Laboratory, University of Illinois Urbana-Champaign
+* 2022 - : Pacific Northwest National Laboratory (PNNL)
+  * Postdoc Research Associate
+  
+* 2016 - 2022: Ven Te Chow Hydrosystems Laboratory, University of Illinois Urbana-Champaign
   * Graduate Research Assistant
 
-* Fall 2014 - Spring 2016: Environmental Fluid Mechanics Laboratory, University of Pittsburgh
-  * Graduate Research & Teaching Assistant
-  
-* Fall 2012 - Spring 2014: Groundwater Modeling Laboratory, Michigan State University
+* 2014 - 2016: Environmental Fluid Mechanics Laboratory, University of Pittsburgh
   * Graduate Research Assistant
   
-* Fall 2010 - Spring 2012: MOE Key Laboratory of Surficial Geochemistry, Nanjing University
+* 2012 - 2014: Groundwater Modeling Laboratory, Michigan State University
+  * Graduate Research Assistant
+  
+* 2010 - 2012: MOE Key Laboratory of Surficial Geochemistry, Nanjing University
   * Undergraduate Research Assistant
   
 Skills
