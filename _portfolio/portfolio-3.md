@@ -1,5 +1,5 @@
 ---
-title: "Project -- Bank Erosion Modeling"
+title: "Research Project -- Bank Erosion Modeling"
 excerpt: "A hybrid deterministic-stochastic stream bank erosion model in the Finite Element Method framework. <br/><img src='/images/bank_erosion.jpg'>"
 collection: project
 date: 2021-01-01
