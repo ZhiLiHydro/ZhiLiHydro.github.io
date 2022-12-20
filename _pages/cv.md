@@ -13,7 +13,7 @@ Full CV is [here](https://zhilihydro.github.io/files/CV_web_Zhi_Li.pdf)
 
 Research interests
 ======
-Numerical modeling of geophysical flow and solute/sediment transport; River Dynamics
+Numerical modeling of geophysical flow and reactive/solute/sediment transport; River Dynamics
 
 Education
 ======
@@ -24,7 +24,7 @@ Education
 Research experience
 ======
 * 2022 - : Pacific Northwest National Laboratory (PNNL)
-  * Postdoc Research Associate
+  * Postdoctoral Research Associate
   
 * 2016 - 2022: Ven Te Chow Hydrosystems Laboratory, University of Illinois Urbana-Champaign
   * Graduate Research Assistant
@@ -40,14 +40,10 @@ Research experience
   
 Skills
 ======
-* Geophysical flow and sediment transport modeling: TELEMAC & SISYPHE, Delft3D, HEC-RAS
+* Geophysical flow, reactive tranport, and sediment transport modeling: ATS, PFLOTRAN, TELEMAC & SISYPHE, Delft3D, HEC-RAS
 * CFD & meshing: FLOW-3D, OpenFOAM, Fluent, ANSYS Meshing, Gmsh
-* Programming languages (scientific computing oriented): Python, Fortran, C, Octave/Matlab
-* Scientific visualization: Tecplot, BlueKenue, ParaView, VisIt, Python-Matplotlib, R
+* Programming languages (scientific computing oriented): Python, Fortran, C/C++, Octave/Matlab
+* Scientific visualization: ParaView, VisIt, Tecplot, BlueKenue, Python-Matplotlib, R
 * GIS & CAD: ArcGIS, AutoCAD, Civil 3D
 * HPC: Rich experience in deploying HPC projects on AWS EC2, campus clusters and supercomputers
 * Cloud computing: AWS Certified Cloud Practitioner
-
-
-  
-
