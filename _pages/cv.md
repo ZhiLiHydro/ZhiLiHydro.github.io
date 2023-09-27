@@ -13,7 +13,7 @@ Full CV is [here](https://zhilihydro.github.io/files/CV_web_Zhi_Li.pdf)
 
 Research interests
 ======
-Numerical modeling of geophysical flow and reactive/solute/sediment transport; River Dynamics
+Computational Hydrology & Hydraulics, Disturbance Hydrology, Environmental Fluid Mechanics, Sediment Transport, River Dynamics, Fluvial Geomophology, Computational Fluid Dynamics, High Performance Computing
 
 Education
 ======
