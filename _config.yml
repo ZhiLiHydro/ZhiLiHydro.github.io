@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Zhi Li"
   avatar           : "profile.png"
-  bio              : "Postdoc at Pacific Northwest National Laboratory (PNNL). Interested in numerical modeling of geophysical flow & solute/sediment transport, and river dynamics. "
-  location         : "Urbana, IL"
+  bio              : "Postdoc at PNNL. Interested in numerical modeling of geophysical flow & solute/reactive/sediment transport, and river dynamics. Views and posts here are my own."
+  location         : "Richland, WA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=rc86b9UAAAAJ"
-  email            : "zhil2@illinois.edu"
+  email            : "zhi.li.illinois@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Chicago # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
