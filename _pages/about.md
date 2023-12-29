@@ -13,23 +13,25 @@ I am Zhi Li, a Postdoctoral Research Associate in the [Atmospheric, Climate, and
 > #### News
 >  - [**Dec'23**] Co-convened the [GC51R](https://agu.confex.com/agu/fm23/meetingapp.cgi/Session/189180) Wildfire Impacts session and presented the poster titled "[Modeling the fates of pyrogenic carbon in the wildfire-impacted Pacific Northwest watersheds](https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1355112)" in AGU Fall Meeting 2023 in San Francisco, CA. 
 >
->  - [**Sep 23**] The preprint of a first-author paper titled "Evaluating the effects of burn severity and precipitation on post-fire watershed responses using distributed hydrologic models" has been published in ESS Open Archive. doi: [10.22541/essoar.170224575.51711472/v1](https://doi.org/10.22541/essoar.170224575.51711472/v1)
+>  - [**Sep'23**] The preprint of a first-author paper titled "Evaluating the effects of burn severity and precipitation on post-fire watershed responses using distributed hydrologic models" has been published in ESS Open Archive. doi: [10.22541/essoar.170224575.51711472/v1](https://doi.org/10.22541/essoar.170224575.51711472/v1)
 >
->  - [**Sep 23**] A co-authored paper titled "A hydrogeophysical framework to assess infiltration during a simulated ecosystem-scale flooding experiment" has been published in the Journal of Hydrology. doi: [10.1016/j.jhydrol.2023.130243](https://doi.org/10.1016/j.jhydrol.2023.130243)
+>  - [**Sep'23**] A co-authored paper titled "A hydrogeophysical framework to assess infiltration during a simulated ecosystem-scale flooding experiment" has been published in the Journal of Hydrology. doi: [10.1016/j.jhydrol.2023.130243](https://doi.org/10.1016/j.jhydrol.2023.130243)
 >
->  - [**Aug 23**] A first-author paper titled "High-resolution modeling of meander neck cutoffs: laboratory and field scales" has been published in Frontiers in Earth Science. doi: [10.3389/feart.2023.1208782](https://doi.org/10.3389/feart.2023.1208782). 
+>  - [**Aug'23**] A first-author paper titled "High-resolution modeling of meander neck cutoffs: laboratory and field scales" has been published in Frontiers in Earth Science. doi: [10.3389/feart.2023.1208782](https://doi.org/10.3389/feart.2023.1208782). 
 >
->  - [**May 23**] A poster titled "Watershed hydrologic and biogeochemical responses to wildfires in the Pacific Northwest" has been presented in ESS-PI meeting in Bethesda, MD. 
->
->  - [**Dec 22**] A poster titled "[Evaluating the transport of wildfire-induced pyrogenic nutrients in a grassland-shrub dominant watershed using a high-res numerical model](https://agu2022fallmeeting-agu.ipostersessions.com/default.aspx?s=C6-1A-8C-D3-AE-E7-AD-78-99-C5-14-DE-F6-DE-79-EA&guestview=true)" has been presented in AGU Fall Meeting 2022. 
->
->  - [**Dec 22**] A poster titled "[Obtaining synthetic riverbed topography of meandering rivers from satellite imagery: a case study of the Tallahatchie River, Mississippi](https://agu2022fallmeeting-agu.ipostersessions.com/default.aspx?s=DA-F3-5B-B2-84-CD-BD-37-6B-14-B0-CA-95-4E-E7-2A&guestview=true)" has been presented in AGU Fall Meeting 2022. 
->
->  - [**Mar 22**] I start working as a Postdoctoral Research Associate at Pacific Northwest National Laboratory ([PNNL](https://www.pnnl.gov/)).
+>  - [**May'23**] A poster titled "Watershed hydrologic and biogeochemical responses to wildfires in the Pacific Northwest" has been presented in [2023 ESS PI meeting](https://web.cvent.com/event/530c166c-8680-4f65-a27a-574ac7dda464/summary) in Bethesda, MD. 
 
 
 <details>
   <summary>Older News</summary>
+
+>
+>  - [**Dec'22**] A poster titled "[Evaluating the transport of wildfire-induced pyrogenic nutrients in a grassland-shrub dominant watershed using a high-res numerical model](https://agu2022fallmeeting-agu.ipostersessions.com/default.aspx?s=C6-1A-8C-D3-AE-E7-AD-78-99-C5-14-DE-F6-DE-79-EA&guestview=true)" has been presented in AGU Fall Meeting 2022. 
+>
+>  - [**Dec'22**] A poster titled "[Obtaining synthetic riverbed topography of meandering rivers from satellite imagery: a case study of the Tallahatchie River, Mississippi](https://agu2022fallmeeting-agu.ipostersessions.com/default.aspx?s=DA-F3-5B-B2-84-CD-BD-37-6B-14-B0-CA-95-4E-E7-2A&guestview=true)" has been presented in AGU Fall Meeting 2022. 
+>
+>  - [**Mar'22**] I start working as a Postdoctoral Research Associate at Pacific Northwest National Laboratory ([PNNL](https://www.pnnl.gov/)).
+>
 >  - [**Feb 22**] I successfully defended my [doctoral thesis](https://hdl.handle.net/2142/115668).
 >
 >  - [**Fall'21**] Paper accepted! Our paper titled "Impact of Lake Michigan Water Level Rise on Complex Bidirectional Flow in the Chicago Area Waterway System (CAWS)" has been accpeted for publication in the Journal of Great Lakes Research. doi: [10.1016/j.jglr.2021.10.008](https://doi.org/10.1016/j.jglr.2021.10.008)
@@ -39,4 +41,5 @@ I am Zhi Li, a Postdoctoral Research Associate in the [Atmospheric, Climate, and
 >  - [**Spring'21**] Obtained the Graduate College Mentoring Certificate, "In recognition of completion of the Illinois Graduate Mentoring Program".
 >
 >  - [**Spring'21**] The pyRiverBed paper has been accepted for publication in Computers & Geosciences. doi: [10.1016/j.cageo.2021.104755](https://doi.org/10.1016/j.cageo.2021.104755)
+
 </details>
