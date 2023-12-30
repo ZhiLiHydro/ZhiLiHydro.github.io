@@ -25,20 +25,20 @@ I am Zhi Li, a Postdoctoral Research Associate in the [Atmospheric, Climate, and
 <details>
   <summary>Older News</summary>
 
-* [Dec'22] A poster titled "Evaluating the transport of wildfire-induced pyrogenic nutrients in a grassland-shrub dominant watershed using a high-res numerical model" has been presented in AGU Fall Meeting 2022. 
+* [Dec'22] A poster titled "Evaluating the transport of wildfire-induced pyrogenic nutrients in a grassland-shrub dominant watershed using a high-res numerical model" has been presented in AGU Fall Meeting 2022. <br>
 
-* [Dec'22] A poster titled "Obtaining synthetic riverbed topography of meandering rivers from satellite imagery: a case study of the Tallahatchie River, Mississippi" has been presented in AGU Fall Meeting 2022. 
+* [Dec'22] A poster titled "Obtaining synthetic riverbed topography of meandering rivers from satellite imagery: a case study of the Tallahatchie River, Mississippi" has been presented in AGU Fall Meeting 2022. <br>
 
-* [Mar'22] I start working as a Postdoctoral Research Associate at Pacific Northwest National Laboratory (PNNL).
+* [Mar'22] I start working as a Postdoctoral Research Associate at Pacific Northwest National Laboratory (PNNL). <br>
 
-* [Feb'22] I successfully defended my doctoral thesis.
+* [Feb'22] I successfully defended my doctoral thesis. <br>
 
-* [Fall'21] Paper accepted! Our paper titled "Impact of Lake Michigan Water Level Rise on Complex Bidirectional Flow in the Chicago Area Waterway System (CAWS)" has been accpeted for publication in the Journal of Great Lakes Research. doi: 10.1016/j.jglr.2021.10.008
+* [Fall'21] Paper accepted! Our paper titled "Impact of Lake Michigan Water Level Rise on Complex Bidirectional Flow in the Chicago Area Waterway System (CAWS)" has been accpeted for publication in the Journal of Great Lakes Research. doi: 10.1016/j.jglr.2021.10.008 <br>
 
-* [Fall'21] A co-authored abstract titled "An integrated river planform and sandbar detection tool based on Google Earth Engine and its application in the Yazoo-Mississippi Delta with high-resolution satellite images" has been accepted by AGU Fall Meeting 2021. Paper Number: H15M-1191.
+* [Fall'21] A co-authored abstract titled "An integrated river planform and sandbar detection tool based on Google Earth Engine and its application in the Yazoo-Mississippi Delta with high-resolution satellite images" has been accepted by AGU Fall Meeting 2021. Paper Number: H15M-1191. <br>
 
-* [Spring'21] Obtained the Graduate College Mentoring Certificate, "In recognition of completion of the Illinois Graduate Mentoring Program".
+* [Spring'21] Obtained the Graduate College Mentoring Certificate, "In recognition of completion of the Illinois Graduate Mentoring Program". <br>
 
-* [Spring'21] The pyRiverBed paper has been accepted for publication in Computers & Geosciences. doi: 10.1016/j.cageo.2021.104755
+* [Spring'21] The pyRiverBed paper has been accepted for publication in Computers & Geosciences. doi: 10.1016/j.cageo.2021.104755 <br>
 
 </details>
