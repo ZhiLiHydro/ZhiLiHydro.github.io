@@ -13,9 +13,11 @@ I am Zhi Li, a Postdoctoral Research Associate in the [Atmospheric, Climate, and
 > ### News
 >  - [**Dec'24**] Hosting the [H41-43A and H51K](https://agu.confex.com/agu/agu24/meetingapp.cgi/Session/236451) hydrologic modeling sessions in AGU24 December 9-13 in Wanshington DC. Look forward to meeting you in DC! 
 >
+>  - [**Nov'24**] Project proposal accepted! Co-leading the project "Improving Advanced Terrestrial Simulator (ATS) model data managing and archiving standards" as one of the 2024 ESS-DIVE Community Fund Projects. Link on [ESS-DIVE website](https://ess-dive.lbl.gov/2024/11/07/2024-ess-dive-community-fund-projects-announcement/).
+>
 >  - [**Nov'24**] Pre-print available online, "Unveiling the Stochasticity of Bank Erosion: A Hybrid Deterministic and Stochastic Modeling Approach", doi: [10.22541/essoar.173152946.64602365/v1](https://doi.org/10.22541/essoar.173152946.64602365/v1)
 >
->  - [**Oct'24**] A poster titled "Integrating ELM-BGC Carbon Cycling with ATS-PFLOTRAN Hydro-Biogeochemical Modeling in a Wildfire-Impacted Pacific Northwest Watershed" has been presented in [The 25th Conference on Computational Methods in Water Resources](https://cmwrconference.org/) in Tucson, AZ. </li>
+>  - [**Oct'24**] A poster titled "Integrating ELM-BGC Carbon Cycling with ATS-PFLOTRAN Hydro-Biogeochemical Modeling in a Wildfire-Impacted Pacific Northwest Watershed" has been presented in [The 25th Conference on Computational Methods in Water Resources](https://cmwrconference.org/) in Tucson, AZ. 
 >
 >  - [**Sept'24**] A co-authored paper titled "Impact of topography and climate on post-fire vegetation recovery across different burn severity and land cover types through random forest" has been published in Ecological Informatics. doi: [10.1016/j.ecoinf.2024.102757](https://doi.org/10.1016/j.ecoinf.2024.102757)
 >

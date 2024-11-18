@@ -40,10 +40,10 @@ Research experience
   
 Skills
 ======
-* GSurface water, groundwater, sediment transport, reactive transport models: TELEMAC, Delft3D, HEC-RAS, PFLOTRAN, Advanced Terrestrial Simulator (ATS), ParFlow, MODFLOW
+* Surface water, groundwater, sediment transport, reactive transport models: TELEMAC, Delft3D, HEC-RAS, PFLOTRAN, Advanced Terrestrial Simulator (ATS), ParFlow, MODFLOW
 * CFD models: OpenFOAM, FLOW-3D, Ansys Fluent, STAR-CCM+, COMSOL
-* Scientific computing languages: C++, Fortran, Python, JAVA, R
-* Scientific visualization: ParaView, Tecplot, VisIt, EnSight, Python-Matplotlib, R
 * GIS & CAD: ArcGIS, QGIS, AutoCAD, Civil 3D
 * HPC: Rich experience in deploying HPC projects on AWS EC2, campus clusters and supercomputers
-* Cloud computing: AWS Certified Cloud Practitioner
+* Cloud: AWS Certified Cloud Practitioner
+* Scientific visualization: ParaView, Tecplot, VisIt, EnSight, Python-Matplotlib, R
+* Scientific computing languages: C++, Fortran, Python, JAVA, R
