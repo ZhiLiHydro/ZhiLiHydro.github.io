@@ -13,7 +13,7 @@ Full CV is [here](https://zhilihydro.github.io/files/CV_web_Zhi_Li.pdf)
 
 Research interests
 ======
-Computational Hydrology & Hydraulics, Disturbance Hydrology, Environmental Fluid Mechanics, Sediment Transport, River Dynamics, Fluvial Geomophology, Computational Fluid Dynamics, High Performance Computing
+Computational Hydrology & Hydraulics, Watershed Hydrology, Disturbance Hydrology, Solute Transport, Reactive Transport, Environmental Fluid Mechanics, Turbulence in Open-Channel Flows, Sediment Transport, River Dynamics, Fluvial Geomorphology, Computational Fluid Dynamics, High-Performance Computing
 
 Education
 ======
@@ -40,10 +40,10 @@ Research experience
   
 Skills
 ======
-* Geophysical flow, reactive tranport, and sediment transport modeling: ATS, PFLOTRAN, TELEMAC & SISYPHE, Delft3D, HEC-RAS
-* CFD & meshing: FLOW-3D, OpenFOAM, Fluent, ANSYS Meshing, Gmsh
-* Programming languages (scientific computing oriented): Python, Fortran, C/C++, Octave/Matlab
-* Scientific visualization: ParaView, VisIt, Tecplot, BlueKenue, Python-Matplotlib, R
-* GIS & CAD: ArcGIS, AutoCAD, Civil 3D
+* GSurface water, groundwater, sediment transport, reactive transport models: TELEMAC, Delft3D, HEC-RAS, PFLOTRAN, Advanced Terrestrial Simulator (ATS), ParFlow, MODFLOW
+* CFD models: OpenFOAM, FLOW-3D, Ansys Fluent, STAR-CCM+, COMSOL
+* Scientific computing languages: C++, Fortran, Python, JAVA, R
+* Scientific visualization: ParaView, Tecplot, VisIt, EnSight, Python-Matplotlib, R
+* GIS & CAD: ArcGIS, QGIS, AutoCAD, Civil 3D
 * HPC: Rich experience in deploying HPC projects on AWS EC2, campus clusters and supercomputers
 * Cloud computing: AWS Certified Cloud Practitioner
