@@ -11,7 +11,7 @@ redirect_from:
 I am Zhi Li, a Postdoctoral Research Associate in the [Atmospheric, Climate, and Earth Sciences Division](https://www.pnnl.gov/atmospheric-climate-and-earth-sciences-division) at Pacific Northwest National Laboratory ([PNNL](https://www.pnnl.gov/)) located in Richland, Washington, USA. At PNNL, I am focusing on developing and applying hydro-biogeochemical numerical models to solve real-world watershed and ecosystem science problems. I received my PhD in Water Resources Engineering & Science from the Ven Te Chow Hydrosystems Laboratory, Department of Civil and Environmental Engineering, University of Illinois Urbana-Champaign ([UIUC](https://illinois.edu/)), where I was trained as a geophysical flow and transport modeler. My PhD thesis focused on the development of numerical models to study river meandering and cutoff dynamics, supervised by Professor [Marcelo H. García](https://cee.illinois.edu/directory/profile/mhgarcia). Here is my [short CV](https://zhilihydro.github.io/cv/).
 
 > ### News
->  - [**Dec'24**] Hosting the [H41-43A and H51K](https://agu.confex.com/agu/agu24/meetingapp.cgi/Session/236451) hydrologic modeling sessions in AGU24 December 9-13 in Washington DC. Look forward to meeting you in DC! 
+>  - [**Dec'24**] Chaired the [H41-43A and H51K](https://agu.confex.com/agu/agu24/meetingapp.cgi/Session/236451) hydrologic modeling sessions in AGU24 December 9-13 in Washington DC. 
 >
 >  - [**Nov'24**] Project proposal accepted! Co-leading the project "Improving Advanced Terrestrial Simulator (ATS) model data managing and archiving standards", as one of the 2024 ESS-DIVE Community Fund Projects. Link on [ESS-DIVE website](https://ess-dive.lbl.gov/2024/11/07/2024-ess-dive-community-fund-projects-announcement/).
 >

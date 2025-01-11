@@ -5,6 +5,10 @@ collection: project
 date: 2021-01-01
 ---
 
+Stochastic bank erosion demo animation
+
+![](/images/124.gif)
+
 Pseudocode: [https://github.com/ZhiLiHydro/stochastic_bank_erosion_demo](https://github.com/ZhiLiHydro/stochastic_bank_erosion_demo)
 
 Publication(s):
