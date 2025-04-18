@@ -21,9 +21,12 @@ Education
 * M.S. in Environmental Engineering, Michigan State University, 2014
 * B.S. in Geosciences with Geology specialization, Nanjing University, 2012
 
-Research experience
+Professional experience
 ======
-* 2022 - : Pacific Northwest National Laboratory (PNNL)
+* 2025 - : School of Civil and Environmental Engineering, University of Connecticut
+  * Assistant Professor
+
+* 2022 - 2025: Pacific Northwest National Laboratory (PNNL)
   * Postdoctoral Research Associate
   
 * 2016 - 2022: Ven Te Chow Hydrosystems Laboratory, University of Illinois Urbana-Champaign
