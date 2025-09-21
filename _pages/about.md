@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Zhi Li, an [Assistant Professor](https://cee.engr.uconn.edu/people/zhi-li) in the [School of Civil and Environmental Engineering](https://cee.engr.uconn.edu/) at the [University of Connecticut](https://uconn.edu/) (UConn). Before joining UConn, I worked at Pacific Northwest National Laborotary. I received my Ph.D. in Water Resources Engineering & Science from the Ven Te Chow Hydrosystems Laboratory, Department of Civil and Environmental Engineering, [University of Illinois Urbana-Champaign](https://illinois.edu/), where I was trained as an environmental flow and transport modeler. My PhD thesis focused on the development of numerical models to study river meandering and cutoff dynamics, supervised by Professor [Marcelo H. García](https://cee.illinois.edu/directory/profile/mhgarcia). 
+I am Zhi Li, an [Assistant Professor](https://cee.engr.uconn.edu/people/zhi-li) in the [School of Civil and Environmental Engineering](https://cee.engr.uconn.edu/) at the [University of Connecticut](https://uconn.edu/) (UConn). Before joining UConn, I worked at [Pacific Northwest National Laborotary](https://www.pnnl.gov/). I earned my Ph.D. in Water Resources Engineering & Science from the Ven Te Chow Hydrosystems Laboratory, Department of Civil and Environmental Engineering, [University of Illinois Urbana-Champaign](https://illinois.edu/), where I was trained as an environmental flow and transport modeler. My PhD thesis focused on the development of numerical models to study river meandering and cutoff dynamics, supervised by Professor [Marcelo H. García](https://cee.illinois.edu/directory/profile/mhgarcia). 
 
 This website is just a landing page for who I am, and it is updated very infrequently. 
 
