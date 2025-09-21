@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am Zhi Li, an Assistant Professor in the School of Civil and Environmental Engineering at the University of Connecticut (UConn). Before joining UConn, I worked at Pacific Northwest National Laborotary. I received my PhD in Water Resources Engineering & Science from the Ven Te Chow Hydrosystems Laboratory, Department of Civil and Environmental Engineering, University of Illinois Urbana-Champaign ([UIUC](https://illinois.edu/)), where I was trained as an environmental flow and transport modeler. My PhD thesis focused on the development of numerical models to study river meandering and cutoff dynamics, supervised by Professor [Marcelo H. García](https://cee.illinois.edu/directory/profile/mhgarcia). 
+I am Zhi Li, an Assistant Professor in the School of Civil and Environmental Engineering at the University of Connecticut (UConn). Before joining UConn, I worked at Pacific Northwest National Laborotary. I received my Ph.D. in Water Resources Engineering & Science from the Ven Te Chow Hydrosystems Laboratory, Department of Civil and Environmental Engineering, University of Illinois Urbana-Champaign ([UIUC](https://illinois.edu/)), where I was trained as an environmental flow and transport modeler. My PhD thesis focused on the development of numerical models to study river meandering and cutoff dynamics, supervised by Professor [Marcelo H. García](https://cee.illinois.edu/directory/profile/mhgarcia). 
 
 This website is just a landing page for who I am, and it is updated very infrequently. 
 
-Welcome to [Environmental Flow Computing Lab website](https://draft.environmentalflowlab.engineering.uconn.edu/) for the latest updates from the lab I lead.
+### Welcome to visit [Environmental Flow Computing Lab website](https://draft.environmentalflowlab.engineering.uconn.edu/) for the latest updates from the lab I lead at UConn.
 
 > ### News
->  - [**Apr'25**] It's official! I will join the [School of Civil and Environmental Engineering](https://cee.engr.uconn.edu/) at the University of Connecticut as an Assistant Professor in the Fall 2025 semester! I'm looking for PhD students who are interested in Environment Flow Computing area. 
+>  - [**Apr'25**] It's official! I will join the [School of Civil and Environmental Engineering](https://cee.engr.uconn.edu/) at the University of Connecticut as an Assistant Professor in the Fall 2025 semester! I'm looking for Ph.D. students who are interested in Environment Flow Computing area. 
 >
 >  - [**Feb'25**] I gladly welcome collaboration on any interesting development and application of pyRiverBed! A co-authored paper titled "Analytical simulation of meander morphology from equilibrium to long-term evolution: Impacts of channel geometry and vegetation-induced coarsening" has been published in International Journal of Sediment Research. doi: [10.1016/j.ijsrc.2025.02.003](https://doi.org/10.1016/j.ijsrc.2025.02.003)
 

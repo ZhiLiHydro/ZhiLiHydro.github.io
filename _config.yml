@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Zhi Li"
   avatar           : "profile.png"
-  bio              : "Assistant Professor in Civil & Envir. Engr. at UConn. Interested in numerical modeling of environmental flow & solute/reactive/sediment transport, and river dynamics. Views and posts here are my own."
-  location         : "Richland, WA"
+  bio              : "Assistant Professor in Civil & Environmental Engineering at UConn. Interested in modeling environmental flow & solute, reactive, sediment transport, and river dynamics. Views and posts here are my own."
+  location         : "Storrs, CT"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=rc86b9UAAAAJ"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "ZhiLiHydro"
+  linkedin         : #"ZhiLiHydro"
   orcid            : "https://orcid.org/0000-0002-6240-8971"
   pinterest        :
   soundcloud       :
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
