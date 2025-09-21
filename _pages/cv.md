@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Full CV is [here](https://zhilihydro.github.io/files/CV_web_Zhi_Li.pdf)
 
 Research interests
 ======

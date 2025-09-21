@@ -8,38 +8,35 @@ redirect_from:
   - /about.html
 ---
 
-I am Zhi Li, a Postdoctoral Research Associate in the [Earth Systems Science Division](https://www.pnnl.gov/earth-systems-science-division) at Pacific Northwest National Laboratory ([PNNL](https://www.pnnl.gov/)) located in Richland, Washington, USA. At PNNL, I am focusing on developing and applying hydro-biogeochemical numerical models to solve real-world watershed and ecosystem science problems. I received my PhD in Water Resources Engineering & Science from the Ven Te Chow Hydrosystems Laboratory, Department of Civil and Environmental Engineering, University of Illinois Urbana-Champaign ([UIUC](https://illinois.edu/)), where I was trained as a geophysical flow and transport modeler. My PhD thesis focused on the development of numerical models to study river meandering and cutoff dynamics, supervised by Professor [Marcelo H. García](https://cee.illinois.edu/directory/profile/mhgarcia). Here is my [short CV](https://zhilihydro.github.io/cv/).
+I am Zhi Li, an Assistant Professor in the School of Civil and Environmental Engineering at the University of Connecticut (UConn). Before joining UConn, I worked at Pacific Northwest National Laborotary. I received my PhD in Water Resources Engineering & Science from the Ven Te Chow Hydrosystems Laboratory, Department of Civil and Environmental Engineering, University of Illinois Urbana-Champaign ([UIUC](https://illinois.edu/)), where I was trained as an environmental flow and transport modeler. My PhD thesis focused on the development of numerical models to study river meandering and cutoff dynamics, supervised by Professor [Marcelo H. García](https://cee.illinois.edu/directory/profile/mhgarcia). 
+
+This website is just a landing page for who I am, and it is updated very infrequently. 
+
+Welcome to [Environmental Flow Computing Lab website](https://draft.environmentalflowlab.engineering.uconn.edu/) for the latest updates from the lab I lead.
 
 > ### News
->  - [**Apr'25**] It's official! I will join the [School of Civil and Environmental Engineering](https://cee.engr.uconn.edu/) at the University of Connecticut as an Assistant Professor in the Fall 2025 semester! I'm looking for PhD students who are interested in Environment Flow Computing area---please check the [temporary Environmental Flow Computing Lab website](https://zhilihydro.github.io/posts/2025/04/blog-post-1/) for more details. 
+>  - [**Apr'25**] It's official! I will join the [School of Civil and Environmental Engineering](https://cee.engr.uconn.edu/) at the University of Connecticut as an Assistant Professor in the Fall 2025 semester! I'm looking for PhD students who are interested in Environment Flow Computing area. 
 >
 >  - [**Feb'25**] I gladly welcome collaboration on any interesting development and application of pyRiverBed! A co-authored paper titled "Analytical simulation of meander morphology from equilibrium to long-term evolution: Impacts of channel geometry and vegetation-induced coarsening" has been published in International Journal of Sediment Research. doi: [10.1016/j.ijsrc.2025.02.003](https://doi.org/10.1016/j.ijsrc.2025.02.003)
->
->  - [**Dec'24**] Chaired the [H41-43A and H51K](https://agu.confex.com/agu/agu24/meetingapp.cgi/Session/236451) hydrologic modeling sessions in AGU24 December 9-13 in Washington DC.
->
->  - [**Nov'24**] Project approved! Co-leading the project "Improving Advanced Terrestrial Simulator (ATS) model data managing and archiving standards", as one of the 2024 ESS-DIVE Community Fund Projects. Link on [ESS-DIVE website](https://ess-dive.lbl.gov/2024/11/07/2024-ess-dive-community-fund-projects-announcement/).
->
->  - [**Nov'24**] Pre-print available online, "Unveiling the Stochasticity of Bank Erosion: A Hybrid Deterministic and Stochastic Modeling Approach", doi: [10.22541/essoar.173152946.64602365/v1](https://doi.org/10.22541/essoar.173152946.64602365/v1)
->
->  - [**Oct'24**] A poster titled "Integrating ELM-BGC Carbon Cycling with ATS-PFLOTRAN Hydro-Biogeochemical Modeling in a Wildfire-Impacted Pacific Northwest Watershed" has been presented in [The 25th Conference on Computational Methods in Water Resources](https://cmwrconference.org/) in Tucson, AZ. 
->
->  - [**Sept'24**] A co-authored paper titled "Impact of topography and climate on post-fire vegetation recovery across different burn severity and land cover types through random forest" has been published in Ecological Informatics. doi: [10.1016/j.ecoinf.2024.102757](https://doi.org/10.1016/j.ecoinf.2024.102757)
->
->  - [**Jun'24**] A co-authored paper titled "Integrated Effects of Site Hydrology and Vegetation on Exchange Fluxes and Nutrient Cycling at a Coastal Terrestrial-Aquatic Interface" has been published in Water Resouces Research. doi: [10.1029/2023WR035580](https://doi.org/10.1029/2023WR035580)
-
 
 
 <details>
   <summary>Older News</summary>`
 
 <ul>
+  <li>[<b>Dec'24</b>] Chaired the H41-43A and H51K hydrologic modeling sessions in AGU24 December 9-13 in Washington DC. </li>
+  <li>[<b>Nov'24</b>] Project approved! Co-leading the project "Improving Advanced Terrestrial Simulator (ATS) model data managing and archiving standards", as one of the 2024 ESS-DIVE Partner Projects. </li>
+  <li>[<b>Nov'24</b>] Pre-print available online, "Unveiling the Stochasticity of Bank Erosion: A Hybrid Deterministic and Stochastic Modeling Approach", doi: 10.22541/essoar.173152946.64602365/v1 </li>
+  <li>[<b>Oct'24</b>] A poster titled "Integrating ELM-BGC Carbon Cycling with ATS-PFLOTRAN Hydro-Biogeochemical Modeling in a Wildfire-Impacted Pacific Northwest Watershed" has been presented in The 25th Conference on Computational Methods in Water Resources in Tucson, AZ. </li>
+  <li>[<b>Sep'24</b>] A co-authored paper titled "Impact of topography and climate on post-fire vegetation recovery across different burn severity and land cover types through random forest" has been published in Ecological Informatics. doi: 10.1016/j.ecoinf.2024.102757 </li>
+  <li>[<b>Jun'24</b>] A co-authored paper titled "Integrated Effects of Site Hydrology and Vegetation on Exchange Fluxes and Nutrient Cycling at a Coastal Terrestrial-Aquatic Interface" has been published in Water Resouces Research. doi: 10.1029/2023WR035580 </li>
   <li>[<b>Dec'23</b>] Co-convened the GC51R Wildfire Impacts session and presented the poster titled "Modeling the fates of pyrogenic carbon in the wildfire-impacted Pacific Northwest watersheds" in AGU Fall Meeting 2023 in San Francisco, CA. </li>
   <li>[<b>Sep'23</b>] The preprint of a first-author paper titled "Evaluating the effects of burn severity and precipitation on post-fire watershed responses using distributed hydrologic models" has been published in ESS Open Archive. doi: 10.22541/essoar.170224575.51711472/v1 </li>
   <li>[<b>Sep'23</b>] A co-authored paper titled "A hydrogeophysical framework to assess infiltration during a simulated ecosystem-scale flooding experiment" has been published in the Journal of Hydrology. doi: 10.1016/j.jhydrol.2023.130243 </li>
   <li>[<b>Aug'23</b>] A first-author paper titled "High-resolution modeling of meander neck cutoffs: laboratory and field scales" has been published in Frontiers in Earth Science. doi: 10.3389/feart.2023.1208782 </li>
   <li>[<b>May'23</b>] A poster titled "Watershed hydrologic and biogeochemical responses to wildfires in the Pacific Northwest" has been presented in 2023 ESS PI meeting in Bethesda, MD. </li>
   <li>[<b>Dec'22</b>] A poster titled "Evaluating the transport of wildfire-induced pyrogenic nutrients in a grassland-shrub dominant watershed using a high-res numerical model" has been presented in AGU Fall Meeting 2022. </li>
-  <li>[<b>Dec'22</b>] A poster titled "Obtaining synthetic riverbed topography of meandering rivers from satellite imagery: a case study of the Tallahatchie River, Mississippi" has been presented in AGU Fall Meeting 2022.</li>
+  <li>[<b>Dec'22</b>] A poster titled "Obtaining synthetic riverbed topography of meandering rivers from satellite imagery: a case study of the Tallahatchie River, Mississippi" has been presented in AGU Fall Meeting 2022. </li>
   <li>[<b>Mar'22</b>] I start working as a Postdoctoral Research Associate at Pacific Northwest National Laboratory (PNNL). </li>
   <li>[<b>Feb'22</b>] I successfully defended my doctoral thesis. </li>
   <li>[<b>Fall'21</b>] Paper accepted! Our paper titled "Impact of Lake Michigan Water Level Rise on Complex Bidirectional Flow in the Chicago Area Waterway System (CAWS)" has been accpeted for publication in the Journal of Great Lakes Research. doi: 10.1016/j.jglr.2021.10.008 </li>
