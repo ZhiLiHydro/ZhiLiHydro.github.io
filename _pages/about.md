@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
+### This website serves as a landing page to introduce who I am, and it is updated only infrequently.
+
+## Welcome to visit [Environmental Flow Computing Lab website](https://environmentalflowlab.engineering.uconn.edu/) for the latest updates from the lab I lead at UConn.
+
 I am Zhi Li, an [Assistant Professor](https://cee.engr.uconn.edu/people/zhi-li) in the [School of Civil and Environmental Engineering](https://cee.engr.uconn.edu/) at the [University of Connecticut](https://uconn.edu/) (UConn). Before joining UConn, I worked at [Pacific Northwest National Laborotary](https://www.pnnl.gov/). I earned my Ph.D. in Water Resources Engineering & Science from the Ven Te Chow Hydrosystems Laboratory, Department of Civil and Environmental Engineering, [University of Illinois Urbana-Champaign](https://illinois.edu/), where I was trained as an environmental flow and transport modeler. My PhD thesis focused on the development of numerical models to study river meandering and cutoff dynamics, supervised by Professor [Marcelo H. García](https://cee.illinois.edu/directory/profile/mhgarcia). 
-
-This website is just a landing page for who I am, and it is updated very infrequently. 
-
-### Welcome to visit [Environmental Flow Computing Lab website](https://draft.environmentalflowlab.engineering.uconn.edu/) for the latest updates from the lab I lead at UConn.
 
 > ### News
 >  - [**Apr'25**] It's official! I will join the [School of Civil and Environmental Engineering](https://cee.engr.uconn.edu/) at the University of Connecticut as an Assistant Professor in the Fall 2025 semester! I'm looking for Ph.D. students who are interested in Environment Flow Computing area. 
